@@ -1,3 +1,16 @@
+#!/usr/bin/env python
+
+"""happyball.py: A basic ball bouncing program to demonstrate programming
+				 during the Fresh Future Innovators Workshop."""
+
+__author__ = "Sean Patterson"
+__copyright__ = "Copyright 2019, Fresh Consulting"
+__credits__ = ["Randall Tateishi", "Sean McKay"]
+__license__ = "MIT"
+__version__ = "1.0.0"
+__maintainer__ = "Sean Patterson"
+__email__ = "sean@freshconsulting.com"
+
 import sys, pygame
 
 # Settings for our game area
